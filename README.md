@@ -1,6 +1,6 @@
 # vue2-eleme-manage
 
-> v模仿饿了么后台管理系统
+> vue2模仿饿了么后台管理系统
 
 ## Build Setup
 
